@@ -1,6 +1,6 @@
 ![download](https://github.com/user-attachments/assets/fa246174-a978-415f-a912-bb419c6f58f1)
 # 💫 Giới thiệu:
-Tôi tên: Lê Đức Trung là thành viên của nhóm 4 ca 3 thứ 6. Sau đây tôi xin giới thiệu về thành viên và đề tài của nhóm tôi
+Tôi tên: Lê Đức Trung là thành viên của nhóm 4 ca 3 thứ 6. Sau đây tôi xin giới thiệu về thành viên và đề tài của nhóm tôi.
 Xin chào tất cả các bạn! Chúng ta là nhóm phát triển ứng dụng mua bán điện thoại, gồm các thành viên: Lê Đức Trung, Võ Minh Quang, và Phạm Khôi Nguyên. Mục tiêu của chúng ta là tạo ra một ứng dụng giúp mua bán điện thoại một cách hiệu quả và thân thiện với người dùng. Ứng dụng này sẽ bao gồm các chức năng như quản lý nhân viên, sản phẩm, doanh thu và quy trình thanh toán cho khách hàng. Với sự hợp tác và nỗ lực của từng thành viên, chúng ta hy vọng sẽ mang đến một sản phẩm chất lượng phục vụ cho người dùng tốt nhất.
 
 
